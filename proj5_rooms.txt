@@ -1,0 +1,10 @@
+0|Forgotten Entrance|A chilly breeze comes from a staircase deep below.|Healing Potion|30|0||0
+1|Dusty Library|Ancient maps are scattered beneath collapsed bookshelves.||0|15||0
+2|Goblin Tunnels|A narrow cave echoes with scraping footsteps.||0|0|Tunnel Goblin|15
+3|Mushroom Grotto|Glowing mushrooms illuminate a narrow spring.|Small Potion|20|0||0
+4|Abandoned Armory|Rusty swords and battered shields cover the floor.||0|20||0
+5|Spider Nest|Cobwebs hang from the ceiling and something stirs inside.||0|0|Giant Spider|20
+6|Crystal Chamber|Blue crystals reflect light across damp stone walls.|Healing Potion|30|0||0
+7|Keeper's Study|A dark desk contains a key to the final treasure vault.|Vault Key|0|0||0
+8|Guardian Hall|The vault guardian stands between you and the treasure.||0|0|Stone Guardian|25
+9|Ancient Vault|An enormous chest waits behind the unlocked stone door.||0|100||0
